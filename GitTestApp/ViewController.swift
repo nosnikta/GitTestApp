@@ -11,8 +11,6 @@ import UIKit
 class ViewController: UIViewController {
     
     var numberNow = Double()
-    let myString = "Pooh"
-    let nostuff = "no stuff"
 
     override func viewDidLoad() {
         super.viewDidLoad()
