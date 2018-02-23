@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var numberNow = Double()
+    var tigers = "Amazing"
     let myString = "Pooh"
     let anotherString = "No Pooh"
     let yetAnotherString = "really no pooh"
