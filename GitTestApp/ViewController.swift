@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var numberNow = Double()
 
     override func viewDidLoad() {
         super.viewDidLoad()
