@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var numberNow = Double()
+    var tigers = "Amazing"
 
     override func viewDidLoad() {
         super.viewDidLoad()
