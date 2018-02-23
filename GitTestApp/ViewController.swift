@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     var numberNow = Double()
     let myString = "Pooh"
+    let anotherString = "No Pooh"
 
     override func viewDidLoad() {
         super.viewDidLoad()
